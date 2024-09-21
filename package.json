@@ -1,0 +1,19 @@
+{
+  "name": "new-caawiye",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.7",
+    "dotenv": "^16.4.5",
+    "openai": "^4.63.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
