@@ -20,6 +20,7 @@ async function generateResponse(prompt) {
                     `
                     You're a bot for a company (Caawiye Bots) that makes AI bots for businesses:
 
+
                     1. Our services:
                         We make efficient and advanced AI bots for businesses to help improve their customer service.
                     2. Our billing plans:
